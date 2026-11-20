@@ -2,7 +2,7 @@
 
 **Deconstruct the paragraph-function skeleton of mature papers into reusable fill-in-the-blank templates to organize and draft manuscripts — a zero-dependency, copy-and-use writing-methodology Skill**
 
-[中文 README](./README.md) · [SKILL.md](./SKILL.md) · [Installation](./INSTALL.md) · [Frameworks & Sentence Library](./references/frameworks.md) · [Checklist](./references/checklist.md)
+[中文 README](./README.md) · [SKILL.md](./SKILL.md) · [Installation](./INSTALL.md) · [Frameworks & Sentence Library](./references/frameworks.md) · [Checklist](./references/checklist.md) · [Citation Patterns](./references/citation-patterns.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -47,7 +47,8 @@ paper-sci-structure/
 ├── INSTALL.md               # Release & installation guide (multi-agent)
 └── references/
     ├── frameworks.md        # Section skeletons, paragraph-function table, sentence library, title patterns
-    └── checklist.md         # Pre-submission checklist, paraphrase techniques, timeline, Response rules
+    ├── checklist.md         # Pre-submission checklist, paraphrase techniques, timeline, Response rules
+    └── citation-patterns.md # Citation rules: three styles, section density gradient, criteria & examples
 ```
 
 ## Use Cases

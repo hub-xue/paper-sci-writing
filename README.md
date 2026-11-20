@@ -2,7 +2,7 @@
 
 **将成熟论文的段落功能解构为可复用的填空式写作模板，用于规范地组织与撰写科研论文初稿 —— 一个零依赖、复制即用的写作方法论 Skill**
 
-[English](./README_EN.md) · [SKILL.md](./SKILL.md) · [安装说明](./INSTALL.md) · [段落骨架与句式库](./references/frameworks.md) · [自查清单](./references/checklist.md)
+[English](./README_EN.md) · [SKILL.md](./SKILL.md) · [安装说明](./INSTALL.md) · [段落骨架与句式库](./references/frameworks.md) · [自查清单](./references/checklist.md) · [引用规则](./references/citation-patterns.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -47,7 +47,8 @@ paper-sci-structure/
 ├── INSTALL.md               # 发布与安装说明（多 agent 安装方式）
 └── references/
     ├── frameworks.md        # 各章节固定骨架、段落功能拆解表、句式模板库、标题命名范式
-    └── checklist.md         # 投稿前自查清单、降重技巧、时间规划、Response 规范
+    ├── checklist.md         # 投稿前自查清单、降重技巧、时间规划、Response 规范
+    └── citation-patterns.md # 引用结构规则：引用风格三型、章节密度梯度、判断标准与示例
 ```
 
 ## 适用场景
