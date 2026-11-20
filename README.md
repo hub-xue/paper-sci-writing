@@ -20,6 +20,7 @@
 ```
 paper-sci-structure/
 ├── SKILL.md                 # 主文件：定位、适用范围、核心原则、工作流程、输入/输出、检查项、示例
+├── INSTALL.md               # 发布与安装说明（多 agent 安装方式）
 └── references/
     ├── frameworks.md        # 各章节固定骨架、段落功能拆解表、句式模板库、标题命名范式
     └── checklist.md         # 投稿前自查清单、降重技巧、时间规划、Response 规范
@@ -32,6 +33,8 @@ paper-sci-structure/
 ```bash
 git clone https://github.com/hub-xue/paper-sci-structure.git ~/.workbuddy/skills/paper-sci-structure
 ```
+
+本 skill 遵循 Agent Skills 开放标准，亦可安装到 codex、dsh、Claude Code、Qoder 等 agent。zip 安装包的命名、版本对应关系与各 agent 的完整安装说明见 [INSTALL.md](./INSTALL.md)。
 
 ## 使用前提
 
