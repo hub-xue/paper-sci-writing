@@ -2,7 +2,7 @@
 
 **将成熟论文的段落功能解构为可复用的填空式写作模板，用于规范地组织与撰写科研论文初稿 —— 一个零依赖、复制即用的写作方法论 Skill**
 
-[SKILL.md](./SKILL.md) · [安装说明](./INSTALL.md) · [段落骨架与句式库](./references/frameworks.md) · [自查清单](./references/checklist.md)
+[English](./README_EN.md) · [SKILL.md](./SKILL.md) · [安装说明](./INSTALL.md) · [段落骨架与句式库](./references/frameworks.md) · [自查清单](./references/checklist.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
