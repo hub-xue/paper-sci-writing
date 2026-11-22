@@ -1,10 +1,10 @@
-# Paper Sci Structure · 科研论文结构分析与写作规范
+# Paper Sci Writing · 科研论文写作规范
 
 **将成熟论文的段落功能解构为可复用的填空式写作模板，用于规范地组织与撰写科研论文初稿 —— 一个零依赖、复制即用的写作方法论 Skill**
 
 [English](./README_EN.md) · [SKILL.md](./SKILL.md) · [安装说明](./INSTALL.md) · [段落骨架与句式库](./references/frameworks.md) · [自查清单](./references/checklist.md) · [引用规则](./references/citation-patterns.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
 ---
 
@@ -31,18 +31,18 @@
 
 ### 方式一：直接安装 Skill
 
-将本仓库克隆或下载后，把 `paper-sci-structure` 目录放入你所使用 agent 的 skills 目录（目录名须保持 `paper-sci-structure`），重启或新建会话即可。各 agent 的目录位置见 [INSTALL.md](./INSTALL.md)。
+将本仓库克隆或下载后，把 `paper-sci-writing` 目录放入你所使用 agent 的 skills 目录（目录名须保持 `paper-sci-writing`），重启或新建会话即可。各 agent 的目录位置见 [INSTALL.md](./INSTALL.md)。
 
 ### 方式二：下载安装包
 
-在 [Releases](https://github.com/hub-xue/paper-sci-structure/releases) 下载 `paper-sci-structure-v<版本号>.zip`，解压后按同样方式放入 skills 目录。
+在 [Releases](https://github.com/hub-xue/paper-sci-writing/releases) 下载 `paper-sci-writing-v<版本号>.zip`，解压后按同样方式放入 skills 目录。
 
 安装后对 AI 说「帮我按论文框架搭全文骨架」「把这段 Results 改成逐图定量陈述」，它会按本 skill 的流程工作。
 
 ## 目录结构
 
 ```
-paper-sci-structure/
+paper-sci-writing/
 ├── SKILL.md                 # 主文件：定位、适用范围、核心原则、工作流程、输入/输出、检查项、示例
 ├── INSTALL.md               # 发布与安装说明（多 agent 安装方式）
 └── references/
@@ -66,6 +66,6 @@ paper-sci-structure/
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
-MIT。欢迎 PR，欢迎转发给你的同门。
+CC BY-NC 4.0（署名-非商业性使用）。允许自由复制、修改与分发，但须署名，且不得用于商业目的。

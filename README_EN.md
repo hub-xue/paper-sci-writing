@@ -1,10 +1,10 @@
-# Paper Sci Structure · Academic Paper Structure Analysis & Writing Convention
+# Paper Sci Writing · Academic Paper Writing Convention
 
 **Deconstruct the paragraph-function skeleton of mature papers into reusable fill-in-the-blank templates to organize and draft manuscripts — a zero-dependency, copy-and-use writing-methodology Skill**
 
 [中文 README](./README.md) · [SKILL.md](./SKILL.md) · [Installation](./INSTALL.md) · [Frameworks & Sentence Library](./references/frameworks.md) · [Checklist](./references/checklist.md) · [Citation Patterns](./references/citation-patterns.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
 ---
 
@@ -31,18 +31,18 @@ It turns the peer-reviewed logical chains — a funnel-style introduction, a rep
 
 ### Option 1: Install the Skill directly
 
-Clone or download this repository, place the `paper-sci-structure` directory into your agent's skills directory (the directory name must stay `paper-sci-structure`), then restart or start a new session. See [INSTALL.md](./INSTALL.md) for each agent's directory location.
+Clone or download this repository, place the `paper-sci-writing` directory into your agent's skills directory (the directory name must stay `paper-sci-writing`), then restart or start a new session. See [INSTALL.md](./INSTALL.md) for each agent's directory location.
 
 ### Option 2: Download the package
 
-Download `paper-sci-structure-v<version>.zip` from [Releases](https://github.com/hub-xue/paper-sci-structure/releases), unzip it, and place it in the skills directory the same way.
+Download `paper-sci-writing-v<version>.zip` from [Releases](https://github.com/hub-xue/paper-sci-writing/releases), unzip it, and place it in the skills directory the same way.
 
 Once installed, tell the AI "help me draft the full skeleton for my paper" or "rewrite this Results section as per-figure quantitative statements", and it will follow this skill's workflow.
 
 ## Repository Structure
 
 ```
-paper-sci-structure/
+paper-sci-writing/
 ├── SKILL.md                 # Main file: positioning, scope, principles, workflow, I/O, checks, examples
 ├── INSTALL.md               # Release & installation guide (multi-agent)
 └── references/
@@ -66,6 +66,6 @@ paper-sci-structure/
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
 
-MIT. PRs welcome.
+CC BY-NC 4.0 (Attribution-NonCommercial). Free to copy, modify, and distribute with attribution; commercial use is not permitted.

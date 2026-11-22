@@ -1,10 +1,10 @@
 ---
-name: paper-sci-structure
+name: paper-sci-writing
 description: 将成熟论文的段落功能解构为可复用的填空式写作模板，用于规范地组织与撰写科研论文初稿。当研究者已具备完整的实验数据与研究问题，需要（1）解构对标论文的段落功能与组织逻辑，（2）按 IMRaD 结构组织或起草论文各章节（引言、方法、结果、讨论、结论、摘要），（3）构建句式模板库、实施降重润色、执行投稿前审稿人模拟与自查、或起草返修 Response 时，应使用本 skill。
 agent_created: true
 ---
 
-# Paper Sci Structure（科研论文结构分析与写作规范）
+# Paper Sci Writing（科研论文写作规范）
 
 ## 定位
 
